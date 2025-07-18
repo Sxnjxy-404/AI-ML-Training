@@ -99,8 +99,3 @@ Contributions are very welcome! To contribute:
 - Ensure your code runs without errors
 - Follow the style and format used in the project
 
----
-
-## 📜 License
-
-This project is released under the [MIT License](LICENSE).
