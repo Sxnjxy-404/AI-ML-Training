@@ -1,0 +1,4 @@
+Store_ID,Date,Product_ID,Product_Name,Quantity_Sold,Unit_Price,Discount_Percent,Payment_Mode
+S002,2025-07-15,P004,Notebook,3,50.0,0.0,Wallet
+S002,2025-07-15,P005,Pen,20,10.0,5.0,Cash
+S002,2025-07-15,P006,Pencil,30,5.0,2.0,Card

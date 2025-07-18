@@ -1,0 +1,4 @@
+Store_ID,Date,Product_ID,Product_Name,Quantity_Sold,Unit_Price,Discount_Percent,Payment_Mode
+S001,2025-07-15,P001,Soap,10,20.0,5.0,Cash
+S001,2025-07-15,P002,Shampoo,5,100.0,10.0,Card
+S001,2025-07-15,P003,Toothpaste,8,35.0,0.0,UPI
