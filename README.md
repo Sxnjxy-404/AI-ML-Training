@@ -44,36 +44,63 @@ AI‑ML‑Training/
 Tip: Save your environment via:
 pip freeze > requirements.txt
 
-▶️ Usage
-Clone the repo:
-git clone https://github.com/Sxnjxy-404/AI-ML-Training.git
-cd AI-ML-Training
+## ▶️ Usage
 
-Create and activate virtual environment:
-python -m venv venv
-source venv/bin/activate   # (or `.\venv\Scripts\activate` on Windows)
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/Sxnjxy-404/AI-ML-Training.git
+   cd AI-ML-Training
+   ```
 
+2. **Create and activate a virtual environment:**
+   ```bash
+   python -m venv venv
+   # On macOS/Linux:
+   source venv/bin/activate
+   # On Windows:
+   .\venv\Scripts\activate
+   ```
 
-Install dependencies:
-pip install -r requirements.txt
+3. **Install the required dependencies:**
+   ```bash
+   pip install -r requirements.txt
+   ```
 
-Launch Jupyter:
-jupyter notebook
-Explore the notebooks in your browser and run the code cells.
+4. **Launch Jupyter Notebook:**
+   ```bash
+   jupyter notebook
+   ```
+   - Open the notebooks in your browser and run the code cells interactively.
 
-🛠️ Contributing
-Contributions are very welcome! Here's how to get started:
+---
 
-Fork the repo
-Create a new branch:
-git checkout -b feature/my-awesome-feature
-Make your changes (add notebooks or update existing ones)
+## 🛠️ Contributing
 
-Commit your work:
-git commit -m "Add ETL‑with‑pandas notebook"
-Push and open a pull request
+Contributions are very welcome! To contribute:
 
-Before submitting, ensure your code runs without errors and adheres to project style.
+1. **Fork the repository**
 
-📜 License
-This project is released under the MIT License.
+2. **Create a new branch:**
+   ```bash
+   git checkout -b feature/my-awesome-feature
+   ```
+
+3. **Make your changes**  
+   (Add new notebooks or update existing ones)
+
+4. **Commit your work:**
+   ```bash
+   git commit -m "Add ETL‑with‑pandas notebook"
+   ```
+
+5. **Push and open a pull request**
+
+**Before submitting**:
+- Ensure your code runs without errors
+- Follow the style and format used in the project
+
+---
+
+## 📜 License
+
+This project is released under the [MIT License](LICENSE).
